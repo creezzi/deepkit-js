@@ -1,0 +1,17 @@
+{
+  "name": "deepkit-js",
+  "version": "0.1.0",
+  "description": "Deep equality and deep cloning for plain objects, arrays, Maps, Sets and Dates, with cycle support.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "files": ["src"],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Adrian Delacruz",
+  "license": "MIT"
+}
